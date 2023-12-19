@@ -245,4 +245,7 @@ h4 ,#nav a{
     #main{
         display: none;
     } 
+    #main::after{
+        content: "open laptop plzzz.!";
+    }
 }
